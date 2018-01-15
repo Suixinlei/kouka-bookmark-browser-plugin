@@ -1,0 +1,12 @@
+node_modules/
+.travis.yml
+*.swp
+.sass-cache/
+mods/.sass-cache/
+.DS_Store
+.idea
+.happypack
+.vscode
+.vs
+compilation-stats.json
+build
